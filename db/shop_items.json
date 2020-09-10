@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Name changer",
+        "price": 6000,
+        "description": "You will be able to set a nickname.",
+        "role": "729434720919879732"
+    },
+    {
+        "name": "Color changer",
+        "price": 15000,
+        "description": "Change your name to any color!",
+        "role": "729434864062955520",
+        "channel": "729443391657476240"
+    },
+    {
+        "name": "Picture perms",
+        "price": 60000,
+        "description": "Wanna send pictures in any channel? Get this!",
+        "role": "729434911118852161"
+    },
+    {
+        "name": "Link perms",
+        "price": 100000,
+        "description": "You might get it if you're active enough...kek",
+        "role": "729434950419611788"
+    }
+]

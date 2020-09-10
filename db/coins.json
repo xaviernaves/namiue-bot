@@ -1,0 +1,2246 @@
+[
+    {
+        "uid": "425960451315335179",
+        "coins": 29863,
+        "daily": 1598369533105,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1598391133105,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "641089909515616267",
+        "coins": 15984,
+        "daily": 1594531291907,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594552891907,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "396508370896551939",
+        "coins": 14002,
+        "daily": 1595863688511,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1595885288511,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "130401077366489090",
+        "coins": 12140,
+        "daily": 1594424134642,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "684505620136853567",
+        "coins": 8676,
+        "daily": 1598194325705,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1598215925705,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "94594168327770112",
+        "coins": 8100,
+        "daily": 1596975004313,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596996604313,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "161217305450250240",
+        "coins": 7458,
+        "daily": 1598793066705,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1598814666705,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "717860740043636840",
+        "coins": 6473,
+        "daily": 1596550973958,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596572573958,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "204758012307439617",
+        "coins": 5890,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "336515963987951627",
+        "coins": 5485,
+        "daily": 1596633387880,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596654987880,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "693850298137182209",
+        "coins": 5466,
+        "daily": 1595764591295,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "306036717272563712",
+        "coins": 5177,
+        "daily": 1594357886067,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594379486067,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "370935575043244034",
+        "coins": 4556,
+        "daily": 1594554445771,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594576045771,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "490068188650930176",
+        "coins": 3563,
+        "daily": 1598807367445,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1598828967445,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "207241542975488000",
+        "coins": 2934,
+        "daily": 1594385643385,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594407243385,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "252884501242314754",
+        "coins": 2280,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "450950793303031820",
+        "coins": 1937,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "497158392381702145",
+        "coins": 1820,
+        "daily": 1595320383332,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1595341983332,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "622061212095741983",
+        "coins": 1724,
+        "daily": 1596368112092,
+        "streak": {
+            "number": 2,
+            "breaks_at": 1596389712092,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "370186619774435329",
+        "coins": 1678,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "473853712880631838",
+        "coins": 1607,
+        "daily": 1594531319180,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594552919180,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "213180511932121088",
+        "coins": 1496,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "208974005481242625",
+        "coins": 1485,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "327459053066518528",
+        "coins": 1434,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "444701429597208589",
+        "coins": 1420,
+        "daily": 1596078622192,
+        "boost": 1,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596100222192,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "705135002920288307",
+        "coins": 1307,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "478199045823660033",
+        "coins": 1145,
+        "daily": 1596782676053,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596804276053,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "364647268433002498",
+        "coins": 1099,
+        "daily": 1594533594738,
+        "boost": 1,
+        "streak": {
+            "number": 4,
+            "breaks_at": 1594555194738,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "683773955454271565",
+        "coins": 1088,
+        "daily": 1594978935108,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "354024382668210186",
+        "coins": 883,
+        "daily": 1595875790097,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "589162707131957251",
+        "coins": 860,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "235051214788755456",
+        "coins": 838,
+        "daily": 1595865463461,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1595887063461,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "715150142306648124",
+        "coins": 836,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "220099981128761345",
+        "coins": 733,
+        "daily": 1598439515651,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "654022842475741217",
+        "coins": 674,
+        "daily": 1594740956837,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "239106145074020352",
+        "coins": 622,
+        "daily": 1595236570328,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "430211134197334028",
+        "coins": 580,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "404052217432113154",
+        "coins": 553,
+        "daily": 1595056292944,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1595077892944,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "442861707296112640",
+        "coins": 544,
+        "daily": 1595091234584,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "321035166719934464",
+        "coins": 464,
+        "daily": 1595765133958,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "426443564327895050",
+        "coins": 398,
+        "daily": 1596745421561,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "565271869314433153",
+        "coins": 359,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "707168056929026080",
+        "coins": 349,
+        "daily": 1597415431754,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "445327619223846923",
+        "coins": 345,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "476149159909654528",
+        "coins": 339,
+        "daily": 1597880421701,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "421297553112432641",
+        "coins": 291,
+        "daily": 1594338522217,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "581787726882406400",
+        "coins": 278,
+        "daily": 1594773768404,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "429064698789363722",
+        "coins": 275,
+        "daily": 1595013284578,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "231552420616863744",
+        "coins": 246,
+        "daily": 1596550236646,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1596571836646,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "529790115015557121",
+        "coins": 239,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "340243097126436875",
+        "coins": 222,
+        "daily": 1595950059765,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "640778823297662986",
+        "coins": 216,
+        "daily": 0,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "594801504217595911",
+        "coins": 205,
+        "daily": 1594464553390,
+        "streak": {
+            "number": 1,
+            "breaks_at": 1594486153390,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "366293781139685396",
+        "coins": 201,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "736283630472659054",
+        "coins": 189,
+        "daily": 1595978949200,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "645156702177591325",
+        "coins": 189,
+        "daily": 1595964989277,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "155149108183695360",
+        "coins": 183,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "207571137759150080",
+        "coins": 166,
+        "daily": 1594468459805,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "634004482619080721",
+        "coins": 163,
+        "daily": 1596562049618,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "214354218423812097",
+        "coins": 160,
+        "daily": 1595978481414,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "430699997999267841",
+        "coins": 157,
+        "daily": 1594905446733,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "131214858975838208",
+        "coins": 154,
+        "daily": 1595007909333,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "562669264452976670",
+        "coins": 144,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "719195279403778068",
+        "coins": 144,
+        "daily": 1594826550826,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "551233140304248832",
+        "coins": 135,
+        "daily": 1594938480881,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "286283445221457922",
+        "coins": 130,
+        "daily": 1594859551803,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "694024741660393564",
+        "coins": 126,
+        "daily": 1594420180590,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "369913240945295381",
+        "coins": 122,
+        "daily": 1594978235609,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "715153445342150726",
+        "coins": 118,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "672915296876757014",
+        "coins": 118,
+        "daily": 1595892703488,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "442126211263627295",
+        "coins": 116,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "384748677669060608",
+        "coins": 113,
+        "daily": 1594906973515,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "617868494322794500",
+        "coins": 111,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "408428971945099265",
+        "coins": 107,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "678452126761877513",
+        "coins": 107,
+        "daily": 1595442115109,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "683610762580721672",
+        "coins": 103,
+        "daily": 1594672554542,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "609521457189486622",
+        "coins": 99,
+        "daily": 1594308732698,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "451853149964206081",
+        "coins": 99,
+        "daily": 1598460622651,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "556607508794441748",
+        "coins": 96,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "727648062843125860",
+        "coins": 96,
+        "daily": 1594664373933,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "388560875642159116",
+        "coins": 96,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "649409972622327829",
+        "coins": 95,
+        "daily": 1594724398264,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "283949490707234817",
+        "coins": 93,
+        "daily": 1594478637995,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "609512015152807949",
+        "coins": 90,
+        "daily": 1594390840246,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "647803402683809822",
+        "coins": 88,
+        "daily": 1595249023683,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "344543724308791297",
+        "coins": 86,
+        "daily": 1594907670419,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "703294778376323072",
+        "coins": 82,
+        "daily": 1595164875997,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "692408394992189500",
+        "coins": 78,
+        "daily": 1595460115050,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "577580500391034910",
+        "coins": 78,
+        "daily": 1594674884065,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "372380894612422667",
+        "coins": 73,
+        "daily": 1595434930186,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "678327405772800020",
+        "coins": 73,
+        "daily": 1596048676724,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "657385538470543362",
+        "coins": 61,
+        "daily": 1595960350619,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "230199443524157444",
+        "coins": 59,
+        "daily": 1594388984750,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "588765029319311372",
+        "coins": 55,
+        "daily": 1594491285186,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "612419365819777059",
+        "coins": 55,
+        "daily": 1595360068652,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "447798490677116939",
+        "coins": 54,
+        "daily": 1594905429904,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "657246345081389068",
+        "coins": 53,
+        "daily": 1595087993510,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "287417110752264202",
+        "coins": 53,
+        "daily": 1595409603514,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "275095697697800193",
+        "coins": 52,
+        "daily": 1598320086394,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "632810149756534803",
+        "coins": 50,
+        "daily": 1597798580437,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "604792486774439946",
+        "coins": 50,
+        "daily": 1599591420515,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "126788835710468106",
+        "coins": 49,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "490836956125593600",
+        "coins": 49,
+        "daily": 1596318536467,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "298725467811217408",
+        "coins": 49,
+        "daily": 1598399010248,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "715300069641027724",
+        "coins": 46,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "552268998855753768",
+        "coins": 46,
+        "daily": 1596484694828,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "322672385176240135",
+        "coins": 45,
+        "daily": 1594981555595,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "512564164443635713",
+        "coins": 45,
+        "daily": 1594253518039,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "328726833086464001",
+        "coins": 44,
+        "daily": 1594861501044,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "189451752716632064",
+        "coins": 44,
+        "daily": 1595970939956,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "568723831468982272",
+        "coins": 42,
+        "daily": 1594431509334,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "340630574895202307",
+        "coins": 42,
+        "daily": 1595276358855,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "335096890234241035",
+        "coins": 42,
+        "daily": 1595782733196,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "564984730127302656",
+        "coins": 41,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "696562519908679690",
+        "coins": 41,
+        "daily": 1594895597884,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "414002990090027029",
+        "coins": 40,
+        "daily": 1594411148744,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "486287478139912224",
+        "coins": 40,
+        "daily": 1594982626104,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "425397065728655373",
+        "coins": 40,
+        "daily": 1595290084635,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "297096161842429963",
+        "coins": 40,
+        "daily": 1596846713524,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "570005620120616981",
+        "coins": 40,
+        "daily": 1598137281433,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "179368804189601794",
+        "coins": 39,
+        "daily": 1594865489267,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "524638282756259851",
+        "coins": 39,
+        "daily": 1597421434655,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "715157214729338990",
+        "coins": 38,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "729830711124557944",
+        "coins": 38,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "659941705637953546",
+        "coins": 37,
+        "daily": 1595691335839,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "480052941697581057",
+        "coins": 37,
+        "daily": 1594977655105,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "379201804686196737",
+        "coins": 37,
+        "daily": 1596317915881,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "609894717915922435",
+        "coins": 35,
+        "daily": 1596143374562,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "384484331361665025",
+        "coins": 35,
+        "daily": 1596146368479,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "630427968350584846",
+        "coins": 34,
+        "daily": 1594728864647,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "716173478956630067",
+        "coins": 33,
+        "daily": 1594826875982,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "707018645619867649",
+        "coins": 33,
+        "daily": 1596837016608,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "535912802381201408",
+        "coins": 32,
+        "daily": 0,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "741150962282004552",
+        "coins": 32,
+        "daily": 1596847133524,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "608564466199691264",
+        "coins": 31,
+        "daily": 1595296118576,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "523264215033577534",
+        "coins": 31,
+        "daily": 1595860159083,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "362693008476471297",
+        "coins": 31,
+        "daily": 1595001254288,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "316429861529059329",
+        "coins": 30,
+        "daily": 1594306741184,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "546093737600745483",
+        "coins": 30,
+        "daily": 1594416158679,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "521689222172639232",
+        "coins": 30,
+        "daily": 1594741655291,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "499266701280673792",
+        "coins": 30,
+        "daily": 1596935135317,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "729865042841043054",
+        "coins": 29,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "358791177798942720",
+        "coins": 29,
+        "daily": 1595880001096,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "164796262191857664",
+        "coins": 28,
+        "daily": 1598311721370,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "645753233855217664",
+        "coins": 26,
+        "daily": 1595710773723,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "309768903087620096",
+        "coins": 26,
+        "daily": 1596381422779,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "350386887959248896",
+        "coins": 26,
+        "daily": 1596709149721,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "403727223045226506",
+        "coins": 26,
+        "daily": 1596846957881,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "288510048874004480",
+        "coins": 26,
+        "daily": 1598388645219,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "219305930163093506",
+        "coins": 25,
+        "daily": 1594575372781,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "408000061994434571",
+        "coins": 25,
+        "daily": 1594594505968,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "415285882489143308",
+        "coins": 25,
+        "daily": 1596846716915,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "656921547621138443",
+        "coins": 25,
+        "daily": 1597513172138,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "688419520452231218",
+        "coins": 25,
+        "daily": 1598047982609,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "531134637494239245",
+        "coins": 24,
+        "daily": 1595008162484,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "729480725102985217",
+        "coins": 24,
+        "daily": 1595527635598,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "713093611021139968",
+        "coins": 23,
+        "daily": 1596194318690,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "454805035751309315",
+        "coins": 22,
+        "daily": 1595407529247,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "284968928890060811",
+        "coins": 22,
+        "daily": 1594694641775,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "229303144041938944",
+        "coins": 22,
+        "daily": 1595615536281,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "344660015606661122",
+        "coins": 21,
+        "daily": 1594674642391,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "217638865001775107",
+        "coins": 20,
+        "daily": 1594912352357,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "148618488208949248",
+        "coins": 20,
+        "daily": 1595200404994,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "353645222661718016",
+        "coins": 19,
+        "daily": 1597444485718,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "731704384081100891",
+        "coins": 18,
+        "daily": 1594588358818,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "705272288576143380",
+        "coins": 17,
+        "daily": 1597018164928,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "680921895226310706",
+        "coins": 17,
+        "daily": 1597698332242,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "693139720074690630",
+        "coins": 15,
+        "daily": 1595278830658,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "716078346194124810",
+        "coins": 14,
+        "daily": 1594416076849,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "732992906016587876",
+        "coins": 14,
+        "daily": 1594948092333,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "699787338640785511",
+        "coins": 14,
+        "daily": 1597434060560,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "306071474668699650",
+        "coins": 12,
+        "daily": 1594431658808,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "571490752211845120",
+        "coins": 12,
+        "daily": 1594575675832,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "328995946778198016",
+        "coins": 12,
+        "daily": 1594740096423,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "670558349405847552",
+        "coins": 12,
+        "daily": 1595171255653,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "735415843344744458",
+        "coins": 12,
+        "daily": 1595407483889,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "323642803177390082",
+        "coins": 12,
+        "daily": 1596203239436,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "741067377214619739",
+        "coins": 12,
+        "daily": 1598460586862,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "730964579198435428",
+        "coins": 11,
+        "daily": 1594674129277,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "455023362775842827",
+        "coins": 11,
+        "daily": 1594682790391,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "714926023862517850",
+        "coins": 11,
+        "daily": 1594938013810,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "705180974845263943",
+        "coins": 10,
+        "daily": 1594415447584,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "591766197293416460",
+        "coins": 10,
+        "daily": 1595177349898,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "732805858517319760",
+        "coins": 10,
+        "daily": 1595295853188,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "707305968614113301",
+        "coins": 10,
+        "daily": 1595964809784,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "730048788114178050",
+        "coins": 9,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "247090678784458752",
+        "coins": 9,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "162858140235333632",
+        "coins": 8,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "434485625056657408",
+        "coins": 8,
+        "daily": 1594432878391,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "706584962194997353",
+        "coins": 8,
+        "daily": 1594501515920,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "671101238586376203",
+        "coins": 8,
+        "daily": 1595030877498,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "730886928022372444",
+        "coins": 7,
+        "daily": 1594748293834,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "726179089852924055",
+        "coins": 7,
+        "daily": 1595088041219,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "705456202234200065",
+        "coins": 6,
+        "daily": 1594235123290,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "145938082460336128",
+        "coins": 6,
+        "daily": 1594738127048,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "498250923840372737",
+        "coins": 6,
+        "daily": 1595240245711,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "467863180924813322",
+        "coins": 6,
+        "daily": 1595282863837,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "582947099734179871",
+        "coins": 5,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "730154344799797308",
+        "coins": 5,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "415124150068445186",
+        "coins": 5,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "642167607553949719",
+        "coins": 3,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "730146161075159070",
+        "coins": 3,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    },
+    {
+        "uid": "282777505201520640",
+        "coins": 3,
+        "daily": 1594308057169,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        },
+        "boost": 1
+    },
+    {
+        "uid": "728282673558323290",
+        "coins": 0,
+        "daily": 0,
+        "boost": 1,
+        "streak": {
+            "number": 0,
+            "breaks_at": 0,
+            "multiplier": 0.5
+        }
+    }
+]
